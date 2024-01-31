@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Lina
 
-🌱 I’m currently learning a Web Dev, let's see where it'll end up 
-📫 You can reach me via lina.chvala@gmail.com
+- 🌱 I’m currently learning a Web Dev, let's see where it'll end up
+- 📫 You can reach me via lina.chvala@gmail.com
 
 <!--
 **ukiy0-exe/ukiy0-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
