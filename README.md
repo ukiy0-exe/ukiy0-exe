@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning a Web Dev, let's see where it'll end up 
+
 <!--
 **ukiy0-exe/ukiy0-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
