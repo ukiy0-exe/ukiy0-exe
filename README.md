@@ -1,7 +1,6 @@
-### Hi 👋🏻, I'm Lina 
+### Hi <img src="https://cdn.7tv.app/emote/6336d1a17ee504dc6f73c043/1x.webp">, I'm Lina 
 
-- 🌱 I’m currently learning a Web Dev, let's see where it'll end up 👩🏻‍💻
-
+I’m currently learning a Web Dev, let's see where it'll end up <img src="https://cdn.7tv.app/emote/60ae2cfb259ac5a73ed9a00c/1x.webp">
 <!--
 **ukiy0-exe/ukiy0-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
