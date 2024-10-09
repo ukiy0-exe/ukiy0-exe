@@ -1,9 +1,7 @@
 
 ### Hi, I'm Lina <img src="https://cdn.7tv.app/emote/6336d1a17ee504dc6f73c043/1x.webp" width="36px"  alt="greeting"> 
 
-<div height="200px">
-  <img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif"  alt="PC">
-</div>
+<img src="https://s6.ezgif.com/tmp/ezgif-6-adc5beaddd.gif"  alt="PC">
 
 > I'm a Full-Stack Web Developer, designer, and tech enthusiast on a mission to turn cool ideas into even cooler projects. <br/>  Whether it's building responsive web apps, crafting sleek designs, or diving into data, I'm all about creating things that make an impact.
 
