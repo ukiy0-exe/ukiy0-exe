@@ -3,7 +3,7 @@
 
 ![background](/assets/main.gif)
 
-> I'm a Full-Stack Web Developer, designer, and tech enthusiast on a mission to turn cool ideas into even cooler projects. <br/>  Whether it's building responsive web apps, crafting sleek designs, or diving into data, I'm all about creating things that make an impact.
+> I'm a Full-Stack Web Developer, designer, and tech enthusiast on a mission to turn cool ideas into even cooler projects. <br/>  Whether it's building responsive web apps, crafting sleek designs, or diving into data, I'm all about creating things that make an impact. <br/> My latest project: [blitzkeys.com](https://dev.blitzkeys.com/)
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/10473/10473311.png" width="32px"  alt="PC"> #tech-skills:
 #### <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/764/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" width="10px"  alt="contact"> Web Development:
